@@ -13,3 +13,6 @@
 - You can add comments in your README for things you want to document but don’t want shown (just remember these are still viewable to everyone in the raw file)
 
 Obviously including all of this would be a bit much. Think about - What do you want someone to know about this project AND what do you want to remember about this project?
+
+
+some changes
